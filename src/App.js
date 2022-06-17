@@ -8,6 +8,7 @@ function makeFriend(value) {
     background-color: black;
     opacity: 0.5;
     width: 60%;
+    border-radius: 10px;
 
     display: flex;
     justify-content: space-between;
